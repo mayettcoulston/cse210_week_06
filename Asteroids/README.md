@@ -1,5 +1,3 @@
-# cse210_week_06
-project
 # Asteroids
 Asteroids is a game where the player is a ship and tries to shoot as many asteroids as possible to gain points. If one asteroid touches your ship, you lose. You play this game on a simulated terminal, with a visual interface.
 ## Getting Started
